@@ -6,3 +6,11 @@
     height: 600px;
     background-size: cover; 
 }
+
+.places-main-container{
+    background-image: url(https://ik.imagekit.io/kishoare12/Tourism/taj-mahal?updatedAt=1750529292643);
+    width: 300px;
+    height: 626px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
